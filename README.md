@@ -13,7 +13,7 @@ assign the matrix to a
 ### Step 4: 
 print
 ## Program:
-
+'''
 #Program to find the rank of a matrix.
 #Developed by:Gokul Prakash M
 #RegisterNumber:23013924
@@ -21,6 +21,7 @@ import numpy as np
 a=[[1,2,3],[3,6,9]]
 b=np.linalg.matrix_rank(a)
 print(b)
+'''
 
 ## Output:
 ![Screenshot 2023-11-24 125604](https://github.com/gokulprakash23013924/RANK-OF-A-MATRIX/assets/150231472/6a9b9fc3-b5b2-47c6-8adc-93bb5df7aaf9)
